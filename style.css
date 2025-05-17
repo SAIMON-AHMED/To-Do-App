@@ -42,7 +42,7 @@ h2 {
 }
 
 .row {
-  flex-wrap: row;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   min-height: 200px;
